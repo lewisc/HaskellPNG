@@ -1,0 +1,6 @@
+name: HaskellPNG
+version: .1
+
+library
+    build-depends: base
+    exposed-modules: Chunks 
