@@ -1,0 +1,9 @@
+Name: HaskellPNG
+Version: 0.1
+Build-Type: Simple
+License: MIT
+Cabal-Version: >= 1.2
+
+Library
+  Build-Depends: base
+  Exposed-Modules: Chunk 
